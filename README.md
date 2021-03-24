@@ -1,9 +1,7 @@
 # ovpn-kando
 The KandoHost Co dedicated OpenVPN Easy , Free & Fast installation for all Linux Server Os's
+
 https://github.com/angristan/openvpn-install/blob/master/README.md
-
-
-
 
 # openvpn-install
 
