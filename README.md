@@ -7,9 +7,9 @@ https://github.com/angristan/openvpn-install/blob/master/README.md
 
 # openvpn-install
 
-![Test](https://github.com/angristan/openvpn-install/workflows/Test/badge.svg)
-![Lint](https://github.com/angristan/openvpn-install/workflows/Lint/badge.svg)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=angristan.openvpn-install)
+![Test](https://kndo.ir/git/lint.svg)
+![Lint](https://kndo.ir/git/badge.svg)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=1saeedir.ovpn-kando)
 
 OpenVPN installer for Debian, Ubuntu, Fedora, CentOS, Oracle Linux and Arch Linux.
 
